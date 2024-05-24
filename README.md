@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Chatbot com Next, AI SDK, OpenAI e Shadcn/UI
 
-## Getting Started
+## 📒 Descrição
+Este projeto é um chatbot desenvolvido utilizando Next.js, AI SDK, OpenAI e Shadcn/UI. O objetivo foi criar um assistente virtual que pode responder a perguntas e auxiliar os usuários de maneira eficiente e amigável.
 
-First, run the development server:
+## 🤖 Tecnologias Utilizadas
+- **Next.js**: Framework React para desenvolvimento de aplicações web.
+- **AI SDK**: Kit de desenvolvimento de software para integrar funcionalidades de IA.
+- **OpenAI**: Plataforma de IA usada para gerar respostas inteligentes e naturais.
+- **Shadcn/UI**: Biblioteca de componentes de interface de usuário estilizados.
 
+
+## 🧐 Processo de Criação
+1. **Configuração do Ambiente**: Inicialmente, configuração de um projeto Next.js e instalamos as dependências necessárias, incluindo o AI SDK, OpenAI e Shadcn/UI.
+2. **Integração com OpenAI**: Integração com a API do OpenAI para gerar respostas dinâmicas e inteligentes para o chatbot.
+3. **Desenvolvimento da Interface**: Criação da interface usando os componentes estilizados do Shadcn/UI.
+![image](https://github.com/elinatorresn/studies-lab-natty-or-not/assets/154446327/639ed181-566b-41e1-b1f3-483a7666f58b)
+4. **Testes e Refinamentos**: Testes para garantir que o chatbot funciona da maneira eficaz.
+
+
+## 🚀 Resultados
+- **Interatividade**: O chatbot consegue interagir com os usuários de maneira natural, respondendo a uma ampla variedade de perguntas.
+- **Interface Agradável**: A interface do usuário é intuitiva e esteticamente agradável, proporcionando uma boa experiência para os usuários.
+- **Desempenho**: O uso de Next.js garante um desempenho rápido e eficiente, melhorando a experiência geral do usuário.
+
+
+### Para rodar o projeto
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
